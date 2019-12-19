@@ -8,7 +8,7 @@ Getting Started
 
 Prerequisites
 
-   1. Python
+   1. Python 3.x
 
 Installing
 
