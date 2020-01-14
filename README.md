@@ -1,32 +1,19 @@
-Shook's Weather Forecast
+<h1>Shook's Weather Forecast</h1>
    
-   An OpenWeatherMap project that shows the forecast and current weather of Boone, NC
+ <p>An OpenWeatherMap project that shows the forecast and current weather of Boone, NC</p>
 
-Getting Started
+<h2>Prerequisites</h2>
+<ul>
+   <li>Python 3.x</li>
+   <li>Python Turtle</li>
+</ul>
 
-   1. Extract file to desktop.
+<h2>Installing</h2>
+<ol>
+   <li>Extract the file to your desktop</li>
+   <li>Navigate to the extracted file in a terminal, not the .zip package.</li>
+   <li>Run the 'main.py' with python 3.x</li>
+</ol>
 
-Prerequisites
-
-   1. Python 3.x
-
-Installing
-
-   1. Open the terminal.
-
-   2. Navigate to the extracted file, not the .zip package.
-
-   3. Run 'python3 main.py' in the folder.
-
-
-Built With
-
-   Python - The language used
-
-Versioning
-
-   1.0 - Released
-
-Authors
-
-   Zaden Connell
+<h3>Author</h3>
+<p>Zaden Connell</p>
