@@ -11,7 +11,7 @@
 <h2>Installing</h2>
 <ol>
    <li>Extract the file to your desktop</li>
-   <li>Navigate to the extracted file in a terminal, not the .zip package.</li>
+   <li>Navigate to the extracted file in a terminal, not the .zip package</li>
    <li>Run the 'main.py' with python 3.x</li>
 </ol>
 
