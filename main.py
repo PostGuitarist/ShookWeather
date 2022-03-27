@@ -11,9 +11,9 @@ def time_converter(time):
 
 
 def url_builder(city_id):
-    user_api = '14adf45f37432b2387c07a9a598bb031'  # Obtain yours form: http://openweathermap.org/
+    user_api = '#'  # Obtain yours form: http://openweathermap.org/
     unit = 'imperial'  # For Fahrenheit use imperial, for Celsius use metric, and the default is Kelvin.
-    api = 'http://api.openweathermap.org/data/2.5/weather?q=Boone,us'     # Search for your city ID here: http://bulk.openweathermap.org/sample/city.list.json.gz
+    api = 'http://api.openweathermap.org/data/2.5/weather?q=#,#'     # Search for your city ID here: http://bulk.openweathermap.org/sample/city.list.json.gz
 
     full_api_url = api + str(city_id) + '&mode=json&units=' + unit + '&APPID=' + user_api
     return full_api_url
