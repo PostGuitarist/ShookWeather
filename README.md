@@ -5,7 +5,6 @@
 <h2>Prerequisites</h2>
 <ul>
    <li>Python 3.x</li>
-   <li>Python Turtle</li>
 </ul>
 
 <h2>Installing</h2>
